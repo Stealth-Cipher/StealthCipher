@@ -12,7 +12,7 @@ export const socialLinks: SocialLink[] = [
     icon: Linkedin,
     label: 'LinkedIn',
     value: 'StealthCipher',
-    link: 'hhttps://www.linkedin.com/in/stealthcipher-jaffer'
+    link: 'https://www.linkedin.com/in/stealthcipher-jaffer-59a52433b'
   },
   {
     icon: Twitter,
